@@ -1,1 +1,1 @@
-Script is loading here
+//Script is loading here
